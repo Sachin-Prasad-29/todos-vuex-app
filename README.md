@@ -1,4 +1,5 @@
 # todos-vuex-app
+As of Now the Application uses Fake API from JSonPlaceholder therefore there are some minor bugs in the app. I will fix it soon with real backend and API.❤️
 
 ## Project setup
 ```
